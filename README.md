@@ -14,4 +14,5 @@ To run the project
 > npm run dev
 
 
-### Credits given to JavaScript Mastery
+### Credits 
+- (https://www.youtube.com/watch?v=0fYi8SGA20k)- by JavaScript Mastery
