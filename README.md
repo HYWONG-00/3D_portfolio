@@ -15,4 +15,4 @@ To run the project
 
 
 ### Credits 
-- (https://www.youtube.com/watch?v=0fYi8SGA20k)- by JavaScript Mastery
+- JavaScript Mastery
