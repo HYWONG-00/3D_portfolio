@@ -1,0 +1,9 @@
+In case you have problem for installing vite in the beginning due to npm/node's version, perhaps you can try to uninstall node.js application from your computer (Control Panel -> Uninstall the application) and reinstall the latest version from the official website.
+After installation is completed, you can try to 
+
+npm -v
+npm install npm@latest  
+npm create vite@latest ./ -- --template react
+
+
+There should be no problem anymore:)

@@ -1,0 +1,11 @@
+//create vite project
+npm create vite@latest ./ -- --template react
+
+//install tailwindcss and other 2 to make it work in react
+npm install --legacy-peer-deps -D tailwindcss postcss autoprefixer
+
+//initialize tailwindcss, -p to create postcss.config.js n link by itself
+npx tailwindcss init -p
+
+//other packages needed
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
